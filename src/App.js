@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 // Components
 import Nav from "Nav/Nav";
 import Home from "Home/Home";
-import Contact from "/Contact/Contact
+import Contact from "/Contact/Contact";
 // Animation
 import Aos from "aos";
 import "aos/dist/aos.css";
