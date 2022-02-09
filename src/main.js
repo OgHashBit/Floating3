@@ -9,6 +9,8 @@ import diamondUrl from "./assets/diamond.glb"
 import textureUrl from "./assets/233.jpg"
 import "./styles.css"
 
+
+export default Main
 function Background() {
   const texture = useTexture(textureUrl)
   const size = useAspect(5000, 3800)
@@ -92,7 +94,7 @@ function Diamonds() {
   )
 }
 
-function App() {
+function Main() {
   return (
     <Canvas linear flat camera={{ fov: 50, position: [0, 0, 30] }}>
       <Suspense fallback={null}>
