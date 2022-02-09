@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './main'
 import { UseEffectScroll } from 'react-use-smooth-scroll'
 import 'react-use-smooth-scroll/dist/index.css'
 const App = () => {
