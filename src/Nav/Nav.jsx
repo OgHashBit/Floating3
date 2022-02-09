@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { animateScroll as scroll } from "react-scroll";
 
 // Styles
-import "./nav.css";
+import "./Nav.css";
 
 // Components
 import MenuIcon from "components/Menu/MenuIcon/MenuIcon";
