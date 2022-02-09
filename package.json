@@ -11,6 +11,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "react-use-smooth-scroll": "1.0.0",
     "@react-three/drei": "7.12.6",
     "@react-three/fiber": "7.0.10",
     "react": "17.0.2",
